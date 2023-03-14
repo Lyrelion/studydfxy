@@ -1,3 +1,8 @@
 <template>
-  <div>启动测试 Lyrelion - study 东方小月</div>
+  <div>
+    <st-button type="primary">测试</st-button>
+  </div>
 </template>
+
+<script lang="ts" setup>
+</script>
