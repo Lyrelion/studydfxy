@@ -1,0 +1,12 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers: {}
+
+  packages/b:
+    specifiers:
+      '@studydfxy/a': workspace:^1.0.0
+    dependencies:
+      '@studydfxy/a': link:../a
