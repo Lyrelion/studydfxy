@@ -1,0 +1,11 @@
+.wrap {
+  color: #fff;
+  display: flex;
+}
+.gulp-demo {
+  width: 200px;
+  height: 300px;
+  color: red;
+  font-size: 16px;
+  background-color: #00FFFF;
+}
